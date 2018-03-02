@@ -1,6 +1,6 @@
 # 在线考试系统（学生端）
 
-**项目采用 Vue.js2.5 + Element UI**
+**项目采用 Vue.js2.5 + vue-router + Element UI**
 
 **开发环境使用 vue-cli**
 
