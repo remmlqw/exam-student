@@ -4,6 +4,8 @@
 
 **开发环境使用 vue-cli**
 
+**项目演示地址 http://liqianwen.remmli.com:8081/#/login**
+
 前言
 > 这个是本系统的学生端 教师端请点击：[教务管理+在线考试系统（教师端）](https://github.com/remmlqw/exam-teacher)
 
