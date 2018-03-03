@@ -8,7 +8,6 @@
 
 **项目演示地址 http://liqianwen.remmli.com:8081/#/login**
 
-<a href="http://liqianwen.remmli.com:8081/#/login" target="_blank">跳到自己博客列表</a>
 
 **注意：演示地址并不是项目真实线上地址，只是演示而已~ 服务器带宽太低，所以打开较慢...请谅解**
 
